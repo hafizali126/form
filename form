@@ -1,0 +1,39 @@
+<table>
+    <tr>
+        <td>full name </td>
+        <td><input type="text"name="name"placeholder="full name"></td>
+    </tr>
+    <tr>
+        <td>password</td>
+        <td><input type="password"name="name"placeholder="password"></td>
+    </tr>
+    <tr>
+        <td>Gander</td>
+        <td>
+            <input type="radio"name="Gander">male
+           <input type="radio"name="Gander">male
+     </td>
+     
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td><input type="text"email="name="placeholder="email"></td>
+       
+    </tr>
+    <tr>
+    <td>phon nom</td>
+    <td>
+        <select>
+            <option value="">200</option>
+            <option value="">250</option>
+            <option value="">542</option>
+            <option value="">7634</option>
+            <option value="">344</option>
+        </select>
+        <input type="phon"name=""placeholder"98653******>
+    </td>
+    </tr>
+    <tr>
+        <td><input type="submit"name=""value="submit"></td>
+    </tr>
+</table>
